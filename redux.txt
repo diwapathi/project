@@ -1,0 +1,9 @@
+redux
+
+1 action...what to do
+2 reducer...how to do..
+3 store...object which hold state of app
+ 4 function associate with store or state..
+             createstore 
+             displtchaction()
+              getstate()
